@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotRealTwitter</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">X9hcT9LIR1nCwVaODa7e9Vpkznat90JyQgZgtBy7</string>
+    <string name="back4app_client_key">vY1ERF1MixSqbSu8YeaVOMl0wrPqGZeo1e7f0XqZ</string>
+
+</resources>
